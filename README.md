@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie Trend Analysis — IMDb 5000 Dataset
 
 Exploratory data analysis (EDA) of ~5,000 movies from the Kaggle IMDb 5000 dataset, using **Python, Pandas, Matplotlib and Seaborn**. The project cleans the raw data, then explores profitability, IMDb ratings, genre popularity, directors and audience engagement to find trends in the film industry.
@@ -84,3 +85,6 @@ jupyter notebook movie_analysis.ipynb
 ```
 
 Run all cells (**Kernel → Restart & Run All**). Charts are saved to `images/` and the cleaned data to `data/movies_cleaned.csv`.
+=======
+# Movie-Trend-Analysis
+>>>>>>> 587e35a83c5659e3fc27e935de905ce06e0c83e2
